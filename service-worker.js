@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SalaryCards/precache-manifest.00b4ebad18890eff74e2129756629732.js"
+  "/SalaryCards/precache-manifest.502afa6fa22cdfd80f050f4aa7593e5f.js"
 );
 
 workbox.clientsClaim();
